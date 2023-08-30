@@ -1,3 +1,4 @@
+
 <h2> Hi, I'm Shenal Mario</h2>
 <p><em>A dedicated student pursuing a BSc Hons in Information Technology with a specialization in Cyber Security. My passion lies in ensuring digital landscapes are secure and resilient against cyber threats. <br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br>
  I am driven to expand my knowledge and skills in this dynamic field, aiming to contribute to the safeguarding of valuable digital assets. Let's connect and explore the exciting realm of cybersecurity together!
