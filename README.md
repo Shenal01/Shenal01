@@ -4,8 +4,9 @@
  I am driven to expand my knowledge and skills in this dynamic field, aiming to contribute to the safeguarding of valuable digital assets. Let's connect and explore the exciting realm of cybersecurity together!
 </em></p>
 
-[![Twitter: lakmalr](https://img.shields.io/twitter/follow/shenal?style=flat-square)](https://twitter.com/Shenal_Mario01)
-[![GitHub lakmalrupasinghe](https://img.shields.io/github/followers/shenal01?label=follow%20github&style=flat-square)](https://github.com/Shenal01)
+[![Twitter: Shenal](https://img.shields.io/twitter/follow/shenal?style=flat-square)](https://twitter.com/Shenal_Mario01)
+[![GitHub Shenal](https://img.shields.io/github/followers/shenal01?label=follow%20github&style=flat-square)](https://github.com/Shenal01)
+[![LinkedIn: Shenal](https://img.shields.io/twitter/follow/shenal?style=flat-square)](https://www.linkedin.com/in/shenal-mario-22207a229)
 
 <br>
 
