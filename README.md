@@ -4,9 +4,12 @@
  I am driven to expand my knowledge and skills in this dynamic field, aiming to contribute to the safeguarding of valuable digital assets. Let's connect and explore the exciting realm of cybersecurity together!
 </em></p>
 
-[![Twitter: Shenal](https://img.shields.io/twitter/follow/shenal?style=flat-square)](https://twitter.com/Shenal_Mario01)
-[![GitHub Shenal](https://img.shields.io/github/followers/shenal01?label=follow%20github&style=flat-square)](https://github.com/Shenal01)
-[![LinkedIn: Shenal](https://img.shields.io/twitter/follow/shenal?style=flat-square)](https://www.linkedin.com/in/shenal-mario-22207a229)
+[![Twitter: Shenal](https://img.shields.io/badge/twitter-Follow?style=circle&logo=X&logoColor=rgb&labelColor=black&color=white&link=https%3A%2F%2Ftwitter.com%2FShenal_Mario01
+)](https://twitter.com/Shenal_Mario01)
+[![GitHub Shenal](https://img.shields.io/badge/Github-Follow?style=circle&logo=github&logoColor=rgb&labelColor=black&color=white&link=https%3A%2F%2Fgithub.com%2FShenal01
+)](https://github.com/Shenal01)
+[![LinkedIn: Shenal](https://img.shields.io/badge/Linkedin-Connect?style=circle&logo=linkedin&logoColor=rgb&labelColor=blue&color=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshenal-mario-22207a229)](https://www.linkedin.com/in/shenal-mario-22207a229)
+[![TryHackme: Shenal](https://img.shields.io/badge/tryhackme-join?style=circle&logo=tryhackme&logoColor=rgb&link=https%3A%2F%2Ftryhackme.com%2Fp%2FMARIO01)](https://tryhackme.com/p/MARIO01)
 
 <br>
 
