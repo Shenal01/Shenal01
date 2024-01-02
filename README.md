@@ -1,6 +1,8 @@
 ![logo](https://github.com/Shenal01/Shenal01/blob/main/Skwigly-Banner-Weird-Eye.gif)
 <h2> Hi, I'm Shenal Mario</h2>
-<p><em>A dedicated student pursuing a BSc Hons in Information Technology with a specialization in Cyber Security. My passion lies in ensuring digital landscapes are secure and resilient against cyber threats. <br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"><br><br>
+<p><em>A dedicated student pursuing a BSc Hons in Information Technology with a specialization in Cyber Security. My passion lies in ensuring digital landscapes are secure and resilient against cyber threats. 
+ <br>
+ <br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"><br><br>
  I am driven to expand my knowledge and skills in this dynamic field, aiming to contribute to the safeguarding of valuable digital assets. Let's connect and explore the exciting realm of cybersecurity together!
 </em></p>
 
@@ -11,6 +13,8 @@
 [![LinkedIn: Shenal](https://img.shields.io/badge/Linkedin-Connect?style=circle&logo=linkedin&logoColor=rgb&labelColor=blue&color=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshenal-mario-22207a229)](https://www.linkedin.com/in/shenal-mario-22207a229)
 [![TryHackme: Shenal](https://img.shields.io/badge/tryhackme-join?style=circle&logo=tryhackme&logoColor=rgb&link=https%3A%2F%2Ftryhackme.com%2Fp%2FMARIO01)](https://tryhackme.com/p/MARIO01)
 
+<br><br>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/MARIO01.png" alt="TryHackMe">
 <br>
 
 ## Interests 💡
